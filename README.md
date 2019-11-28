@@ -31,3 +31,7 @@ The policy training can then be started with the command<br>
 
 To monitor progress, execute tensorboard<br>
 `tensorboard --logdir runs`
+
+During training, the policy will be saved to disk in regular intervals.
+The performance of the policy on the internal model can be visualized by running the script<br>
+`python3 ballbot_evaluation.py`
