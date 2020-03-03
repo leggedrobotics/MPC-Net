@@ -1,7 +1,9 @@
 # MPC-Net
 
-This package contains supplementary code and implementation details for the [publication](https://arxiv.org/pdf/1909.05197.pdf)
-> Carius, Jan, Farbod Farshidian, and Marco Hutter. "MPC-Net: A First Principles Guided Policy Search." arXiv preprint arXiv:1909.05197 (2019)
+This package contains supplementary code and implementation details for the [publication](https://doi.org/10.1109/LRA.2020.2974653)
+> J. Carius, F. Farshidian and M. Hutter, "MPC-Net: A First Principles Guided Policy Search," in IEEE Robotics and Automation Letters, vol. 5, no. 2, pp. 2897-2904, April 2020.
+
+A preprint is available on [arxiv](https://arxiv.org/pdf/1909.05197.pdf).
 
 While licensing restrictions do not allow us to release the ANYmal model,
 we are providing our training script with an alternative ball-balancing robot.
